@@ -1,0 +1,58 @@
+* {
+    /* 
+    border: 1px solid red !important;
+    */
+    font-family: Kalimati, Verdana, sans-serif;
+}
+.mockup-overlay {
+   top: 0;
+   position: absolute;
+   z-index: 10;
+   opacity: .4;
+}
+.main_title {
+    color: #666666;
+    font-size: 48px;
+    padding-left: 1px;
+    padding-top: 25px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.sub_title {
+    color: #F07C17;
+    font-weight: bolder;
+    font-size: 24px;
+}
+
+.main_features_box {    
+    border: 1px solid #CCCCCC;  
+    margin-top: 32px;
+    padding-top: 10px; 
+    padding-bottom: 32px;     
+}
+.main_features {
+
+    padding-left: 31px;
+}
+
+.main_feature_list {
+    padding-top: 20px;
+    line-height: 1.999;
+    padding-left: 30px;
+    font-size: 16px;
+}
+
+.logo_mug {
+    margin-top: 20px;
+}
+
+.filler_text {
+    padding-top: 22px;
+}
+
+.content_para {
+    font-size: 16px;
+    line-height: 200%;
+
+}
