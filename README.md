@@ -10,4 +10,7 @@ Congratulations! Tests completed successfully and you achieved a 4.75% mismatch!
 The Most useful resources were
   1. Search engine for line-height property.
   2. Hint to Achieve Udaciousness: in the Instructor Notes
+  3. Udacity HTML/CSS Style Guide
+  4. W3C HTML Validator
+  5. W3C CSS Validator
 
